@@ -1,5 +1,5 @@
 # C-Learning
--Learing C#
+-Learning C#
 -Job PC Control PLC
 -Startup
 
